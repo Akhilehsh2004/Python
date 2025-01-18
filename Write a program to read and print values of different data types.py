@@ -1,0 +1,6 @@
+num = int(input("Enter the value of num : "))
+amt = float(input("enter the value of amt : "))
+pi = float(input("Ente the value ofg pi : "))
+code = str(input("Enter the value of your code : "))
+population_of_India = int(input("Enter the  value of population of India:  "))
+mgs = str(input("Enter the value of message : "))
