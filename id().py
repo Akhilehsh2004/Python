@@ -1,3 +1,3 @@
-str = "Jasi Hind"
+str = "Jai Hind"
 print(str)
 print(id(str))
